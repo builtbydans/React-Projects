@@ -1,0 +1,9 @@
+.social--container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(64, 64, 64);
+}
+
+.social--container-imgsize {
+  transform: scale(0.5);
+}
