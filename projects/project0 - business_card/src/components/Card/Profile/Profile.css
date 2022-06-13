@@ -1,2 +1,8 @@
 .card--profile {
 }
+
+.card--profile-image {
+  width: 100%;
+  transform: scale(1);
+  object-fit: contain;
+}

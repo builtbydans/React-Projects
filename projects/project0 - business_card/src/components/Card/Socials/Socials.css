@@ -1,0 +1,10 @@
+.social--container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(64, 64, 64);
+  padding: 10px;
+}
+
+.social--container-imgsize {
+  transform: scale(0.5);
+}
